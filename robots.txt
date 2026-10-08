@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-sfqcyi.rtb-system.online/sitemap.xml
